@@ -172,8 +172,8 @@ askmex-chatbot:
 ## <font size="5">👤 Author</font>
 
 <font size="3">
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Akshat Jain**
+- GitHub: [@0415-Ak](https://github.com/0415-Ak)
 </font>
 
 ## <font size="5">🙏 Acknowledgments</font>
