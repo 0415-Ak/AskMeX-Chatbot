@@ -112,8 +112,11 @@
 askmex-chatbot/
 │
 ├── app.py                 # Main Streamlit application
+   
 ├── twitter_api.py         # X Developer API integration
+
 ├── summary.py       # TextBlob NLP processing
+
 └── README.md             # Project documentation
 ```
 </font>
