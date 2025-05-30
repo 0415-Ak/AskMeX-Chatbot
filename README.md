@@ -118,8 +118,7 @@ askmex-chatbot:
 ├── summary.py       # TextBlob NLP processing
 
 └── README.md             # Project documentation
-```
-</font>
+
 
 ## <font size="5">🔧 Key Concepts</font>
 
