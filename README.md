@@ -109,8 +109,8 @@
 
 <font size="3">
 ```
-askmex-chatbot/
-│
+askmex-chatbot:
+   
 ├── app.py                 # Main Streamlit application
    
 ├── twitter_api.py         # X Developer API integration
