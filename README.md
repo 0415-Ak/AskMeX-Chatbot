@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/askmex-chatbot.git
+   git clone https://github.com/0415-Ak/askmex-chatbot.git
    cd askmex-chatbot
    ```
 
